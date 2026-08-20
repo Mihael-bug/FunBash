@@ -1,4 +1,5 @@
 #!/usr/bin/env zsh
+#yes i know the name is funbash but its acually zsh 
 
 #For this to work you need next packages:cmatrix, cava and hyfetch(hyfetch is like any other fetch execpt it has a build in config that will launch the first time you run hyfetch. I like it more then, fastfetch or neofetch. Its up to you what you want to use.)
 
